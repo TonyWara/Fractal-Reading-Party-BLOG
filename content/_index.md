@@ -4,6 +4,9 @@ title: Home
 
 [<img src= "https://simpleicons.org/icons/bookstack.svg" style="max-width:15%;min-width:40px;float:right;" alt="Github repo"/>]
 
-This Hugo theme was ported from [Ivy](https://github.com/dmulholland/ivy), a minimalist website generator built in Python. I don't have time to document it. You have to read the source code to understand what it can do. Like Ivy, this theme is also released under [the Unlicense](https://en.wikipedia.org/wiki/Unlicense), which basically means you just do whatever you want.
+2021《新五代史》欧阳修（https://book.douban.com/subject/26314790/）
+2022《魏晋南北朝》川胜义雄 （https://book.douban.com/subject/35671921/）
+2023《直到山河尽头》牟森（https://book.douban.com/subject/36139187/）
 
-All pages not under the root directory of the website are listed below. You can also visit the list page of a single section, e.g., [posts](/post/), or [notes](/note/).
+
+ [posts](/post/), or [notes](/note/).
