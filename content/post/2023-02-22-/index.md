@@ -1,6 +1,6 @@
 ---
 title: 《直到山河尽头》牟森——历史人物的静止分析
-author: R package build
+author: lightning
 date: '2023-02-22'
 slug: ''
 categories: [历史]
