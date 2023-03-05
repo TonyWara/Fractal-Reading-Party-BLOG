@@ -30,6 +30,12 @@ menu:
     - name: "2021"
       url: "/2021/"
       weight: 5
+    - name: "2022"
+      url: "/2022/"
+      weight: 6
+    - name: "2023"
+      url: "/2023/"
+      weight: 7
     - name: "Subscribe"
       url: "/index.xml"
 
