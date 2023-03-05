@@ -2,7 +2,7 @@
 title: Home
 ---
 
-[<img src= "https://simpleicons.org/icons/bookstack.svg" style="max-width:15%;min-width:40px;float:right;" alt="Github repo"/>]
+<img src= "https://simpleicons.org/icons/bookstack.svg" style="max-width:15%;min-width:40px;float:right;" alt="Github repo"/>
 
 书本豆瓣链接
 ---
