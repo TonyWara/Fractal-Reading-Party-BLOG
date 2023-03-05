@@ -14,6 +14,4 @@ title: Home
 周日早 9:30
 周六晚 21:00
 
-
-
- [posts](/post/), or [notes](/note/).
+ ## [posts](/post/), or [notes](/note/).
