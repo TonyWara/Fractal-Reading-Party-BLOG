@@ -36,8 +36,7 @@ menu:
     - name: "2023"
       url: "/2023/"
       weight: 7
-    - name: "Subscribe"
-      url: "/index.xml"
+ 
 
 params:
   description: "2021-2023"
