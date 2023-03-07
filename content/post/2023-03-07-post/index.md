@@ -1,5 +1,5 @@
 ---
-title: 卑鄙者，个体的极致
+title: 卑鄙者，个体的极致——新五代史|梁本纪
 author: Lightning
 date: '2023-03-07'
 slug: post
