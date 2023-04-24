@@ -18,7 +18,7 @@ menu:
     - name: "Home"
       url: "/"
       weight: 1
-    - name: "About"
+    - name: "About&成员介绍"
       url: "/about/"
       weight: 2
     - name: "Categories"
