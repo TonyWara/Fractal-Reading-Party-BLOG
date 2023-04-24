@@ -14,7 +14,7 @@ title: Home
 ---
 2023
 - [《直到山河尽头》](https://book.douban.com/subject/36139187/)牟森
-
+- AI
 
 # 读书会时间
 周日早 9:30
